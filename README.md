@@ -63,6 +63,6 @@ Your project will be reviewed by a Udacity reviewer against the CNN project rubr
    PyTorch uses a library called [CUDA](https://developer.nvidia.com/cuda-zone) to accelerate operations using the GPU. If you have a GPU that CUDA supports, you'll be able to install all the necessary libraries by installing PyTorch with conda. 
 
 2. If you can't use a local GPU, you can use cloud platforms such as AWS, GCP, and FloydHub to train your networks on a GPU.[The project can be oppend also using  Google Colab](https://colab.research.google.com/) or using  [Kaggle Kernels](https://www.kaggle.com)
-3. How to reproduce the results can be found in [Jupyter Notebook  file](https://github.com/unhcr/Jetson/blob/master/Finding-the-Nexus/FindTheNexusDeepLearning/VHI%20and%20Displacements%20from%20Somanlia.ipynb) the same dataset split between training and testing for predicting and checking the prediction
+3. How to reproduce the results can be found in Jupyter Notebook  file the same dataset split between training and testing for predicting and checking the prediction
 
 ---
